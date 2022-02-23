@@ -1,0 +1,22 @@
+/*
+=============== 
+Variables
+===============
+*/
+
+:root {
+  /* buttons*/
+  --clr-primary-1: hsl(0, 0%, 27%);
+  /* darkest grey - used for headings */
+  --clr-grey-1: hsl(209, 61%, 16%);
+  /* grey used for paragraphs */
+  --clr-grey-5: hsl(210, 22%, 49%);
+  --clr-grey-6: hsl(209, 23%, 60%);
+  --clr-grey-10: hsl(210, 36%, 96%);
+  /* grey used for borders */
+  --crl-dark: hsl(0, 0%, 0%);
+  --clr-blue: hsl(219, 79%, 66%);  
+  --clr-white: hsl(0, 0%, 100%);
+  --spacing: 0.1rem;
+  --radius: 0.25rem;
+}
